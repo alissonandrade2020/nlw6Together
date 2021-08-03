@@ -76,6 +76,10 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
  - [Sistema de Cadastros de Alunos e Cursos](https://alissonandradesistema.000webhostapp.com/)
  
  - [Ecoleta](https://alisssonecoleta.herokuapp.com/)
+
+ - [Nlw 06 Rocketq](https://nlw06rocketqalissonandrade.vercel.app)
+
+ - [Credit Card](https://creditcardalissonandrade.vercel.app/)
   
  - [HTML + CSS - Responsivo](https://alissonhtmlcss.netlify.app/)
  
@@ -118,4 +122,3 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 - [Site de Apresentação 2 de Alisson de Andrade Araújo](https://alissodeaaraujo.000webhostapp.com/index.html)
 
 :vulcan_salute::vulcan_salute: ***OBRIGADO PELO CARINHO E ATENÇÃO !!***  :vulcan_salute::vulcan_salute:
-
